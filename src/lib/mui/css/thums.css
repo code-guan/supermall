@@ -1,0 +1,14 @@
+.photoinfo-container .thums {
+  display: flex;
+}
+.thums figure {
+  display: block;
+  float: left;
+  margin: 10px;
+  box-shadow: 0 0 8px #ccc;
+}
+
+.thums img {
+  width: 100px;
+  vertical-align: middle;
+}
